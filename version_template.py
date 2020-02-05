@@ -28,7 +28,7 @@ import the expand_ function and invoke it directly with either no or exactly one
 #    dependencies)
 #  - don't import even standard modules at global scope without renaming them
 #    to have leading/trailing underscores
-baseVersion = '3.23.0a1'
+baseVersion = '3.24.1a1'
 cgcloudVersion = '1.6.0a1.dev393'
 dockerName = 'toil'
 
